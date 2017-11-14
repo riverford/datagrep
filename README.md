@@ -15,7 +15,7 @@ e.g
 
 ```clojure
 (require '[riverford.datagrep.core :refer [vargrep]])
-(vargrep '{:doc transducer, :ns "clojure.core"})
+(vargrep '{:doc transducer, :ns #"clojure.core$"})
 ```
 
 ## Usage
