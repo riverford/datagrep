@@ -34,7 +34,7 @@ Available via clojars:
    The `=` term or a regex.
  - symbols, convenient shorthand for strings, only the name component is used.
  - numbers, compared with '='
- - vectors of terms expressing conjunction i,e 'and'
+ - vectors of terms expressing conjunction i.e 'and'
  - sets of terms expressing disjunction i.e 'or'
  - maps of key term to value term, where the input must contain a key matching the key term, and the value of that key or some subcomponent thereof
    must match the value term.
