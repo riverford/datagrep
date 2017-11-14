@@ -4,7 +4,7 @@
 
 `grep` is a filtering function, that returns elements of a sequence that match the provided query terms.
 
-Terms are datastructures and are typically matched recursively, see [Query Syntax](#wquery-syntax) for available terms.
+Terms are datastructures and are typically matched recursively, see [Query Syntax](#query-syntax) for available terms.
 
 e.g
 
