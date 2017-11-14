@@ -10,7 +10,7 @@ e.g
 
 ```clojure
 (require '[riverford.datagrep.core :refer [grep]])
-(grep '{:orders {:quantity (< 3}} coll})
+(grep '{:orders {:quantity (< 3)}} coll)
 ```
 
 ```clojure
